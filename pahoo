@@ -1,0 +1,3 @@
+mkdir ~/pahoo
+cd ~/pahoo
+git init
